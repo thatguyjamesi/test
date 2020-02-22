@@ -1,16 +1,1 @@
-ffdsfsdfs
-ffdsfsdfs
-
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
-ffdsfsdfs
+print("hello")
